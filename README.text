@@ -2,4 +2,6 @@
 
 Zurmo is an open source CRM  application written in PHP utilizing jQuery, Yii Framework, and RedBeanPHP.
 
-This repo is used for module development.  
+This repo is used for module development.
+Imported from bitbucket 20150916
+Current release vestion 3.0.4 
